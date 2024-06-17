@@ -16,4 +16,5 @@ Anthony's stall is a compact but inviting setup, crafted from sturdy wooden plan
 | [[DMs Nots/Items/Joke Items/Belt of Attunement\|Belt of Attunement]]      | 150 gp | Lets the wearer attune to one more item than normal.                                         |
 | [[DMs Nots/Items/Joke Items/Cowbell of Invisibility\|Cowbell of Invisibility]] | 100 gp | Grants invisibility when used.                                                               |
 | [[DMs Nots/Items/Joke Items/Ever-Burning Torch\|Ever-Burning Torch]]      | 50 gp  | This torch will never go out.                                                                |
+
 [[Published/1. The Dungeon Home Page\|Home]]
