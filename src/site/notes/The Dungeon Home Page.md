@@ -12,4 +12,7 @@
 	- NPCs
 		- [[Faronfall/Faronfalla/NPCs/Anthony Mapstore\|Anthony Mapstore]]
 		- [[Faronfall/Faronfalla/NPCs/St. Michael Ornstain\|St. Michael Ornstain]]
+- [[The Dungeon/Level 1/1. Entarance\|The Dungeon]]
+	- Stalls & Services
+		- [[Faronfall/The Dungeon/Stalls & Servecis/Mapstore's Marvels\|Mapstore's Marvels]]
 
