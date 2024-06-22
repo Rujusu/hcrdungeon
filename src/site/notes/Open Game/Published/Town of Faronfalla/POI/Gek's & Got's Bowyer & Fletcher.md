@@ -8,13 +8,13 @@
 
 ### Ownership
 
-The shop is owned and operated by a pair of tieflings: [[Open Game/Published/NPCs/Gekhzi\|Gekhzi]] and her fiancé, [[Open Game/Published/NPCs/Gothrhuu\|Gothrhuu]].
+The shop is owned and operated by a pair of tieflings: [[Open Game/Published/NPCs/Gekhzi\|Gekhzi]] and her fiance, [[Open Game/Published/NPCs/Gothrhuu\|Gothrhuu]].
 
 ### Services
 
 - **Products:** High-quality bows and arrows
 - **Custom Orders:** Gekhzi and Gothrhuu take pride in their work and offer custom-made bows and arrows tailored to the needs of each adventurer.
-- **Specialties:** Gekhzi focuses on the creation of arrows, ensuring each one is perfectly balanced and flight-ready, while Gothrhuu builds the bows that are for sale.
+- **Specialities:** Gekhzi focuses on the creation of arrows, ensuring each one is perfectly balanced and flight-ready, while Gothrhuu builds the bows that are for sale.
 
 ### Stock
 | Item                         | Price | Damage      | Weight   | Properties                                                   |
@@ -34,16 +34,3 @@ The shop is owned and operated by a pair of tieflings: [[Open Game/Published/NPC
 
 
 ***Heavy-draw:*** This weapon requires a minimum Strength of 12. If the wielder does not have this they suffer a -2 penalty to attack rolls made with this weapon.
-
-### Notable Traits
-
-- **Quality:** The shop is known for the exceptional quality of its products, trusted by many adventurers.
-- **Customer Service:** Gekhzi's agreeable nature and Gothrhuu's sincerity in compliments make the shop a welcoming place for customers.
-- **Innovation:** Gekhzi's interest in technology and experimentation often leads to innovative archery equipment.
-
-### Goals
-
-- **Gekhzi:** Aims to either learn new skills or teach others, continually improving her craft.
-- **Gothrhuu:** Seeks to discover new things, driven by curiosity and a desire for knowledge.
-
-Gek's & Got's Bowyer & Fletcher stands as a cornerstone of Faronfalla, providing essential gear to adventurers and contributing to the town's vibrant, adventurous spirit.
