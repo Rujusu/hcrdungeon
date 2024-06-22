@@ -17,7 +17,6 @@ Find Johnathan Willow, who has been missing for 4 days. He was supposed to be in
 - **Alive:** 100 gp
 - **Deceased:** 50 gp
 - **Note:** The family hopes the church can bring him back if his corpse is not in too bad of a condition.
-
-**Guild Merit:** This quest is worth 1 guild merit.
+- **Guild Merit:** This quest is worth 1 guild merit.
 
 **Note:** Return to the Hunters Guild with Johnathan Willow or his remains to claim your reward and merit points.
