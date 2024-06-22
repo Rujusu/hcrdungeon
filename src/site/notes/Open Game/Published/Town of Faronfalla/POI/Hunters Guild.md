@@ -11,3 +11,5 @@
 The Hunters Guild in Faronfalla uses a ranking system to categorise adventurers based on their achievements, skills, and contributions to the guild. This system not only dictates the level of gear and supplies adventurers can purchase but also grants various benefits and privileges as they ascend the ranks. The ranks are named after precious metals, starting from the least valuable to the most esteemed.
 
 [[Open Game/Published/Hunters Guild/Rankings/1. Rankings Overview\|Ranks]]
+[[Open Game/Published/Hunters Guild/Quests/Notice Board/1. Guild Quest Board\|Notice Board]]
+[[Open Game/Published/Hunters Guild/Quests/Standing Quests/1. Standing Quests\|Standing Quests]]
